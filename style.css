@@ -1,0 +1,23 @@
+.boddy{
+   background-color: #F6F2FF; 
+}
+.butnnn{
+    background: linear-gradient(90deg, rgba(193,13,198,1) 52%, rgba(86,20,161,1) 100%);
+}
+
+.purple{
+    color: #BF5AF2;
+}
+.peech{
+    color: #FF7C7C;
+}
+.inpuutt{
+    border-radius: 25px 0px 0px 25px;
+    padding-left: 30px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.btttn-custom{
+    border-radius: 0px 25px 25px 0px;;
+}
+
